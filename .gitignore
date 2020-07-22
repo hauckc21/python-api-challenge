@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-api_keys.py
 # C extensions
 *.so
 
@@ -80,7 +79,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-
+api_keys.py
 # pyenv
 .python-version
 
